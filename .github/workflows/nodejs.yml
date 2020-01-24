@@ -23,3 +23,10 @@ jobs:
         webfont-assistant --config "assets/fonts/ArandaIcons.was"
       env:
         CI: true
+    - uses: actions/download-artifact@v1.0.0
+    - name: Download artifact
+      with:
+        # Artifact name
+        name: "Icons"
+        # Directory containing files to upload
+        path: "dist/"
