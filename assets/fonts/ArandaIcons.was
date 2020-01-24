@@ -1,0 +1,4 @@
+[
+    {"files":"assets/svg/*.svg","name":"ArandaIcons","fontName":"app-icon","fontId":"app-icon","dest":"assets/fonts","template":"css","templateFontName":"ArandaIcons","fixedWidth":true,"fontHeight":1000,"formats":["ttf"],"styleType":"css"},
+    {"files":"assets/svg/*.svg","name":"ArandaBase","fontName":"base-icon","fontId":"base-icon","dest":"assets/fonts","template":"css","templateFontName":"ArandaBase","fixedWidth":true,"fontHeight":1000,"formats":["ttf"],"styleType":"css"} 
+]
